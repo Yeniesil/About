@@ -14,22 +14,22 @@ Welcome to my official _**Website**_. This website contains all the code example
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](book/images/myst.webp)
+:link: https://www.alexu.edu.eg/index.php/en/
+![mystmd](book/images/au.png)
 +++
 **MyST Markdown**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](book/images/jupyter-book.webp)
+:link: https://www.aau.edu.et/
+![jupyter-book](book/images/aau.png)
 +++
 **Jupyter Book**
 :::
 
 :::{card}
-:link: https://jupyter.org
-![jupyter](book/images/jupyter.webp)
+:link: https://www.hu.edu.et/
+![jupyter](book/images/hu.png)
 +++
 **Jupyter**
 :::
