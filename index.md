@@ -1,11 +1,11 @@
 ---
 title: Yeniesil Temare
-subtitle: Subtitle of the book
+subtitle: who
 ---
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+Welcome to my official _**Website**_. This website contains all the code examples featured in the book.
 
 ---
 
