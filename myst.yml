@@ -20,14 +20,14 @@ project:
     - book/references.bib
   toc:
     - file: index.md
-    - title: Preface
+    - title: About
       children:
         - file: book/preface.md
-    - title: Getting Started
+    - title: Teaching
       children:
         - file: book/part01/getting-started.md
         - file: book/part01/installation.md
-    - title: Examples
+    - title: Research
       children:
         - file: book/part02/first-example.md
 site:
