@@ -17,21 +17,21 @@ Welcome to my official _**Website**_. This website contains all the code example
 :link: https://www.alexu.edu.eg/index.php/en/
 ![MSc @ AU University](book/images/au.png)
 +++
-**MyST Markdown**
+**MSc @ AU University**
 :::
 
 :::{card}
 :link: https://www.aau.edu.et/
 ![MSc @ AAU University](book/images/aau.png)
 +++
-**Jupyter Book**
+**MSc @ AAU University**
 :::
 
 :::{card}
 :link: https://www.hu.edu.et/
 ![BSc @ HU University](book/images/hu.png)
 +++
-**Jupyter**
+**BSc @ HU University**
 :::
 
 :::{card}
