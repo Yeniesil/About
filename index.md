@@ -12,22 +12,17 @@ upon return.
 |Year	|Degree	|Institution	|Thesis | Advisors |
 | --- | --- | --- | --- | --- |
 | Feb 2016 – Feb 2018 | M.Sc. in Nuclear Science and Technology | Alexandria University, Egypt| Reactor Safety Calculation of AP1000 PWR Reactor: A Monte Carlo Simulation | Prof. Alya Bedawi, Dr. Nader Mohamed|
+|Sep 2010 – Feb 2014| M.Sc. in Statistical and Computational Physics | Addis Ababa University, Ethiopia| Thesis: Adsorption of a Single Polymer Chain on a Rough Surface: A Monte Carlo Simulation | Dr. Tateke Yirgu, Dr. Mulugeta Bekele |
+|Sep 2005 – Jul 2008 | B.Sc. in Applied Physics | Hawassa University, Ethiopia | Project: A Review of Operational Principles of Solar Cells | Dr. Tizau Masresha, Mr. Bereket Medhanie | 
 
-Focus: Reactor safety analysis, neutronics modeling, MCNP simulation, thermal-hydraulic phenomena in PWR systems
+### Focus: 
+- Reactor safety analysis, neutronics modeling, MCNP simulation, thermal-hydraulic phenomena in PWR systems
 Scholarship: IAEA AFRA Full Scholarship
-|Year	|Degree	|Institution	|Thesis| Advisors |
-| --- | --- | --- | --- | --- |
-|Sep 2010 – Feb 2014| M.Sc. in  | Addis Ababa University, | Thesis: Adsorption of a Single Polymer Chain on a Rough Surface:  | Dr. Tateke Yirgu, |
-|  | Statistical and Computational Physics | Addis Ababa, Ethiopia | A Monte Carlo Simulation | Dr. Mulugeta Bekele |
-
-Focus: Stochastic modeling, Fortran-based code development, statistical mechanics applications
-|Year	|Degree	|Institution	|Project| Advisors |
-| --- | --- | --- | --- | --- |
-|Sep 2005 – Jul 2008 | B.Sc. in | Hawassa University, | Project: A Review of Operational Principles of Solar Cells | Dr. Tizau Masresha | 
-|  | Applied Physics | Hawassa, Ethiopia |  | Mr. Bereket Medhanie |
-
-Key Courses: Nuclear Physics, Computational Physics, Quantum Mechanics, Statistical Mechanics, Mathematical Methods of Physics
-Honors: Dean's List (6 times), Top Scorer (Class of 2008), College Academic Excellence Award (2007)
+- Stochastic modeling, Fortran-based code development, statistical mechanics applications
+### Key Courses: 
+- Nuclear Physics, Computational Physics, Quantum Mechanics, Statistical Mechanics, Mathematical Methods of Physics
+### Honors:
+- Dean's List (6 times), Top Scorer (Class of 2008), College Academic Excellence Award (2007)
 
 ---
 
