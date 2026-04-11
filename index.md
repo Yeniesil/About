@@ -11,8 +11,7 @@ upon return.
 ## EDUCATION
 |Year	|Degree	|Institution	|Thesis | Advisors |
 | --- | --- | --- | --- | --- |
-| Feb 2016 – Feb 2018 | M.Sc. in  | Alexandria University, | Reactor Safety Calculation of AP1000 PWR Reactor:  | Prof. Alya Bedawi, |
-|  | Nuclear Science and Technology |  Alexandria, Egypt | A Monte Carlo Simulation | Dr. Nader Mohamed |
+| Feb 2016 – Feb 2018 | M.Sc. in Nuclear Science and Technology | Alexandria University, Egypt| Reactor Safety Calculation of AP1000 PWR Reactor: A Monte Carlo Simulation | Prof. Alya Bedawi, Dr. Nader Mohamed|
 
 Focus: Reactor safety analysis, neutronics modeling, MCNP simulation, thermal-hydraulic phenomena in PWR systems
 Scholarship: IAEA AFRA Full Scholarship
